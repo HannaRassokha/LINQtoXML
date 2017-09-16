@@ -1,0 +1,11 @@
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/bin/Debug/netcoreapp1.1/LINQtoXML.deps.json
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/bin/Debug/netcoreapp1.1/LINQtoXML.runtimeconfig.json
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/bin/Debug/netcoreapp1.1/LINQtoXML.runtimeconfig.dev.json
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/bin/Debug/netcoreapp1.1/LINQtoXML.dll
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/bin/Debug/netcoreapp1.1/LINQtoXML.pdb
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/obj/Debug/netcoreapp1.1/LINQtoXML.csproj.CoreCompileInputs.cache
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/obj/Debug/netcoreapp1.1/LINQtoXML.AssemblyInfo.cs
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/obj/Debug/netcoreapp1.1/LINQtoXML.dll
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/obj/Debug/netcoreapp1.1/LINQtoXML.pdb
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/bin/Debug/netcoreapp1.1/TestXML2.xml
+/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/bin/Debug/netcoreapp1.1/XmlFile.xml

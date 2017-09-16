@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{897714F8-8558-4081-A30A-DBD723AFE33F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQtoXML/Program.cs">
+    <Files>
+      <File FileName="LINQtoXML/Program.cs" Line="33" Column="9" />
+      <File FileName="LINQtoXML/XmlFile.xml" Line="12" Column="39" />
+      <File FileName="LINQtoXML/TestXML2.xml" Line="15" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LINQtoXML PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
