@@ -14533,10 +14533,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/LINQtoXML.csproj",
+      "projectUniqueName": "/Users/annarassokha/Documents/GitHub/LINQtoXML/LINQtoXML/LINQtoXML.csproj",
       "projectName": "LINQtoXML",
-      "projectPath": "/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/LINQtoXML.csproj",
-      "outputPath": "/Users/annarassokha/Projects/LINQtoXML/LINQtoXML/obj",
+      "projectPath": "/Users/annarassokha/Documents/GitHub/LINQtoXML/LINQtoXML/LINQtoXML.csproj",
+      "outputPath": "/Users/annarassokha/Documents/GitHub/LINQtoXML/LINQtoXML/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

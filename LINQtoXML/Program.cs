@@ -78,7 +78,7 @@ namespace XML_LINQ
                 Console.WriteLine("Region: " + p.region);
                 Console.WriteLine("PostalCode: " + p.postalCode);
                 Console.WriteLine("Country: " + p.country);
-				Console.WriteLine("=================================");
+				Console.WriteLine("==================================");
 
 			});
 
