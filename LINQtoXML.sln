@@ -1,7 +1,10 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQtoXML", "LINQtoXML\LINQtoXML.csproj", "{897714F8-8558-4081-A30A-DBD723AFE33F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionForString", "ExtentionForString\ExtentionForString.csproj", "{8C5CAB6C-88AE-428A-86AE-74D61FF7510F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +16,12 @@ Global
 		{897714F8-8558-4081-A30A-DBD723AFE33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{897714F8-8558-4081-A30A-DBD723AFE33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{897714F8-8558-4081-A30A-DBD723AFE33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5CAB6C-88AE-428A-86AE-74D61FF7510F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5CAB6C-88AE-428A-86AE-74D61FF7510F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5CAB6C-88AE-428A-86AE-74D61FF7510F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5CAB6C-88AE-428A-86AE-74D61FF7510F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

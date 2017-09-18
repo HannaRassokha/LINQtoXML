@@ -1,0 +1,6 @@
+C:\Users\Hanna.Rassokha\Documents\GitHub\LINQtoXML\ExtentionForString\bin\Debug\ExtentionForString.exe.config
+C:\Users\Hanna.Rassokha\Documents\GitHub\LINQtoXML\ExtentionForString\bin\Debug\ExtentionForString.exe
+C:\Users\Hanna.Rassokha\Documents\GitHub\LINQtoXML\ExtentionForString\bin\Debug\ExtentionForString.pdb
+C:\Users\Hanna.Rassokha\Documents\GitHub\LINQtoXML\ExtentionForString\obj\Debug\ExtentionForString.csprojResolveAssemblyReference.cache
+C:\Users\Hanna.Rassokha\Documents\GitHub\LINQtoXML\ExtentionForString\obj\Debug\ExtentionForString.exe
+C:\Users\Hanna.Rassokha\Documents\GitHub\LINQtoXML\ExtentionForString\obj\Debug\ExtentionForString.pdb
